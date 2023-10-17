@@ -9,4 +9,12 @@ This is a redesign of the Bakist web app by Jonas Schmedtmann for his JavaScript
     - Movement sorting (ascending, descending, and chronologically)
   - Responsiveness for most screen sizes
 
+Login data:
+- ep : 11111
+- dd: 22222
+- fh : 33333
+- RP : 44444
+
+Or you can sign up creating a password and a username will be generated.
+
 This is my first repo.
