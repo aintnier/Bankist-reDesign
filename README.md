@@ -13,7 +13,7 @@ Login data:
 - ep : 11111
 - dd: 22222
 - fh : 33333
-- RP : 44444
+- rp : 44444
 
 Or you can sign up creating a password and a username will be generated.
 
