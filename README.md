@@ -1,7 +1,7 @@
 # Bankist-reDesign
 Re-Design of Jonas Schmedtmann's app "Bankist"
 
-This is a redesign of the Bakist web app by Jonas Schmedtmann for his JavaScript course. My version includes the following features:
+This is a redesign of the Bankist web app by Jonas Schmedtmann for his JavaScript course. My version includes the following features:
   - Sign up and log in form
   - Home page with the following functions:
     - Transfers
