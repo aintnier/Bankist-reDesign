@@ -17,6 +17,6 @@ Login data:
 
 Or you can sign up creating a password and a username will be generated.
 
-Web app is available at the following url: bankist-redesign.netlify.app
+Web app is available at the following url: [https://bankist-redesign.netlify.app](https://bankist-redesign.netlify.app/)
 
 This is my first repo.
